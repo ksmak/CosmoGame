@@ -1,3 +1,2 @@
 # CosmoGame
-
-Django app
+CosmoGame
